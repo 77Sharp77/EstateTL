@@ -1,0 +1,6 @@
+{
+  "name": "Kalicaa Villa - Estate Management",
+  "description": "Estate Management & Billing System for villa utilities, electricity, water, IPL, SKP, SPK, and deposits",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
